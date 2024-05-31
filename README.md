@@ -1,2 +1,3 @@
 # BraineryWizDocumentation
-Obvious 
+
+**Documentation**: https://bijanseif.github.io/BraineryWizDocumentation/
