@@ -2,7 +2,8 @@
 
 .. comment: in the below line add meta data from google search console to verify it on google search engine
 .. meta::
-   :google-site-verification: urOWf3F5etdxQeLrqblrNbk_blbvilo-RyoLSlAuOak
+   :google-site-verification: GkW8gWjOsZjAqJXkSsGHRmmyB30oCxz_aPzkelOnhP4
+   
    
    
 Welcome to BraineryWiz's documentation!
