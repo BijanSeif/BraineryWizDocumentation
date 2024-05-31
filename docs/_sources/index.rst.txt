@@ -82,4 +82,4 @@ Send us any bug if you encounter with and also any requirement if you need to be
 
 .. raw:: html
    
-   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=e0c7ff&w=300&t=n&d=NIlENIEXmhU22xnYVndLdZ-jq2hb-K755GK1om7TyyA&co=ffffff&cmo=77a6ff&cmn=62f662&ct=000000'></script>
+   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=f9c9f5&w=300&t=n&d=m_nMwb45jIO5Oi4TIp2ELMCkBL7S_7Bjkq9Fs5GIatU&co=ffffff&cmo=90e3f9&cmn=00ff00&ct=000000'></script>

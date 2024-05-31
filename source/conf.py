@@ -9,8 +9,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'BraineryWiz'
-copyright = '2023, Bijan Sayyafzaden - Silvia Mazzoni'
-author = 'Bijan Sayyafzaden - Silvia Mazzoni'
+copyright = '2023, Bijan Sayyafzaden'
+author = 'Bijan Sayyafzaden'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -59,7 +59,7 @@ html_theme_options = {
     "icon_links": [
         {
             "name": "GitHub",
-            "url": "https://github.com/Silvia-s-Brainery/BraineryWiz",
+            "url": "https://github.com/BijanSeif/BraineryWiz",
             "icon": "fab fa-github fa-lg",
             "type": "fontawesome",
         },
@@ -71,7 +71,7 @@ html_theme_options = {
         },
         {
             "name": "MainPage",
-            "url": "https://www.silviasbrainery.com/brainerywiz",
+            "url": "https://www.linkedin.com/company/brainerywiz",
             "icon": "_static/BraineryWizico.ico",
             "type": "local",
         },
