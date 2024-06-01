@@ -37,3 +37,4 @@ popd
 cd %BUILDDIR%
 cd. > .nojekyll
 cd..
+copy /y sitemap.xml %BUILDDIR%
