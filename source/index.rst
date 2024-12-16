@@ -27,6 +27,8 @@ Welcome to BraineryWiz's documentation!
       :link: updateshist
       :link-type: ref
       :link-alt: Updates History and News
+	  
+      BraineryWiz **Version 0.96** for Python users Released. Date: 12/17/2024
 
       :ref:`BraineryWiz for TCL <installationTCL>` New Version Released (OpenSees 3.6.0). Date: 5/29/2024
 	  
