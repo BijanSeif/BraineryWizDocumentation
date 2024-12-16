@@ -28,7 +28,11 @@ Welcome to BraineryWiz's documentation!
       :link-type: ref
       :link-alt: Updates History and News
 	  
-      BraineryWiz **Version 0.96** for Python users Released. Date: 12/17/2024
+      :ref:`RGquivers_size option for Python <plotmodelretconspy>` added. Date: 12/17/2024
+	  
+      :ref:`Shrink_size option for Python <plotmodelshrink>` added. Date: 12/17/2024
+	  
+      BraineryWiz **Version 0.96** for Python users Released. (Attention: Requires Python Version 3.12.3) Date: 12/17/2024
 
       :ref:`BraineryWiz for TCL <installationTCL>` New Version Released (OpenSees 3.6.0). Date: 5/29/2024
 	  
