@@ -21,6 +21,6 @@ Windows users use above command in command prompt (cmd) and Anaconda users use i
 
 .. note::
 
-   BraineryWiz now has been compiled for multiple versions of Python. Currently **Python version 3.12.3** works for lates released version and **Python version 3.11.5** and **Python version 3.10.4** works but for older version of BraineryWiz. **If you are not using Anaconda**, you have to wait until anaconda supports Python version 3.12. Now you can install BraineryWiz and it works but it is not the lates version of BraineryWiz.
+   BraineryWiz now has been compiled for multiple versions of Python. Currently BraineryWiz works for Python versions **3.12.3**, **3.11.5** and **3.10.4**. Also, latest anaconda version with python 3.11.5 can support BraineryWiz.
 	
 
