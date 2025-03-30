@@ -55,7 +55,6 @@ html_theme_options = {
     "navbar_end": ["theme-switcher", "navbar-icon-links"],
     "secondary_sidebar_items": [],#"page-toc"],# "edit-this-page", "sourcelink"],
     "primary_sidebar_end": [],
-    "footer_items": [],
     "icon_links": [
         {
             "name": "GitHub",

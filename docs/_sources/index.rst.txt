@@ -16,6 +16,14 @@ Welcome to BraineryWiz's documentation!
 
    **BraineryWiz** is mainly a Python package for plotting **OpenSees (A Finite Element analyze Software) models**. There is also a TCL version that can be used to show the OpenSees models created using TCL programming language. Beside them FEMWiz is a Python package that currently exist inside the Python version of BraineryWiz to plot any Finite Element models.
 
+.. admonition:: Alarm!
+   :class: warning
+
+   **Attention**: There are some **fumdamental update in Plotly** version 6.0 and higher that is not complete yet. So, to **use BraineryWiz Python version without problem** using following command **install plotly version 5.24.0** until this alarm exist here.
+   
+   .. code-block:: bat
+
+      pip install plotly==5.24.0
 
 .. grid:: 1 1 2 2
    :padding: 0 2 3 5
